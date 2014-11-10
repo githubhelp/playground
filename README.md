@@ -1,4 +1,2 @@
-playground
-==========
-
-The new playground
+PLEASE DON'T FORK OR COPY THIS REPOSITORY
+=========================================
