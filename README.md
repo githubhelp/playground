@@ -7,6 +7,4 @@ I want to create a new pull request.
 I want to add a small change too.
 Yea
 
-![la](https://dl.dropboxusercontent.com/u/279054/Cod-Steamed-Water-Butter.jpg)
-
-<img src="https://dl.dropboxusercontent.com/u/279054/Cod-Steamed-Water-Butter.jpg" />
+[![la](https://dl.dropboxusercontent.com/u/279054/Cod-Steamed-Water-Butter.jpg)](#)
