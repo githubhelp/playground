@@ -6,4 +6,5 @@ Test
 I am testing commit issue references
 Change
 C  
-Commit 2
+Commit 2  
+Commit 1  
