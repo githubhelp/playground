@@ -1,3 +1,5 @@
+# Something
+
 class Dog  
   def initialize(breed, name)  
     # Instance variables  
