@@ -1,0 +1,3 @@
+[submodule "testmodule"]
+	path = testmodule
+	url = https://github.com/petros/alpha-iota
