@@ -15,3 +15,4 @@ Commit 3
 Commit 4  
 Another commit  
 
+Sync
