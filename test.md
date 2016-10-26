@@ -16,3 +16,5 @@ Commit 4
 Another commit  
 
 Sync
+
+Rebase and merge
