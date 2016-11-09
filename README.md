@@ -9,4 +9,6 @@ Yea
 
 [![la](https://dl.dropboxusercontent.com/u/279054/Cod-Steamed-Water-Butter.jpg)]()
 
-<img align="middle" src="https://dl.dropboxusercontent.com/u/279054/Cod-Steamed-Water-Butter.jpg" alt="la">
+<div style="text-align:center">
+<img src="https://dl.dropboxusercontent.com/u/279054/Cod-Steamed-Water-Butter.jpg" alt="la">
+</div>
