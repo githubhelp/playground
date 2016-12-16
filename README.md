@@ -8,5 +8,5 @@ I want to add a small change too.
 Yea
 
 This is a change
+This is another change.
 
-e7fa2faf1d278985eba71b1d108fbe066167bd50
