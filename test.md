@@ -18,3 +18,4 @@ Another commit
 Sync
 
 Rebase and merge
+This is a change
