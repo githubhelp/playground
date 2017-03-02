@@ -18,3 +18,5 @@ Another commit
 Sync
 
 Rebase and merge
+
+See delete branch button
