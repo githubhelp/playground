@@ -1,4 +1,4 @@
-# Something else
+# Something else of course
 
 class Dog  
   def initialize(breed, name)  
