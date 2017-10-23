@@ -19,3 +19,6 @@ Returns a JSON representation of the object. If the object has a
 function, it **will not be called**.
 
 > **NOTE** The method will return an empty JSON if the referenced object is not stringifiable. It will throw an error if the object has circular references.
+
+This is another line I believe will help us see what the problem is.
+
